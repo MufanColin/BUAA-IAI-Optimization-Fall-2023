@@ -7,5 +7,6 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+- file: 单纯形法
 - file: 线性规划中的对偶问题
 - file: 约束优化问题
