@@ -8,3 +8,4 @@ chapters:
 - file: notebooks
 - file: markdown-notebooks
 - file: mymarkdownfile
+- file: 线性规划中的对偶问题
